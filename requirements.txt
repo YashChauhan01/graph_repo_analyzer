@@ -1,0 +1,17 @@
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+sentence-transformers==3.0.1
+transformers==4.44.0
+langchain==0.2.16
+langchain-groq==0.1.9
+langchain-community==0.2.16
+langgraph==0.2.4
+chromadb==0.5.5
+neo4j==5.23.0
+python-dotenv==1.0.1
+tenacity==8.5.0
+tiktoken==0.7.0
+tree-sitter==0.22.3
+tree-sitter-python==0.23.0
+tree-sitter-java==0.23.0
